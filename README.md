@@ -1,4 +1,3 @@
-## NLP & Text AI
 
 # 📄 Text Analyzer using Natural Language Processing (NLP)
 
